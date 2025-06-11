@@ -1,6 +1,6 @@
 ## ola eu so o felipiTx👋
 
-- ❤️ apaixonado pro programação
+- ❤️ apaixonado por programação
 - 📘 estudante
 - 🧑‍💻 estusiasta de linguagens antigas como assembly, cobol, rust...
 - 📱 no momento estou fazendo um aplicativo para celular com flutter.
