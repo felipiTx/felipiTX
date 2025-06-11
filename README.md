@@ -4,8 +4,7 @@
 - 📘 estudante
 - 🧑‍💻 estusiasta de linguagens antigas como assembly, cobol, rust...
 - 📱 no momento estou fazendo um aplicativo para celular com flutter.
-
-- <div style="display: inline_block"><br>
+ <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
