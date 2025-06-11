@@ -2,7 +2,7 @@
 
 - ❤️ apaixonado por programação
 - 📘 estudante
-- 🧑‍💻 estusiasta de linguagens antigas como assembly, cobol, rust...
+- 🧑‍💻 estusiasta de linguagens antigas como assembly, cobol, entre outros
 - 📱 no momento estou fazendo um aplicativo para celular com flutter.
  <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
