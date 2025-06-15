@@ -1,4 +1,4 @@
-## ola eu so o felipiTx👋
+## ola eu so o felipi👋
 
 - ❤️ apaixonado por programação
 - 📘 estudante
