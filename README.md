@@ -1,5 +1,6 @@
 ## ola eu so o felipi👋
 
+- 😉 26 anos
 - ❤️ apaixonado por programação
 - 📘 estudante
 - 🧑‍💻 estusiasta de linguagens antigas como assembly, cobol, entre outros
